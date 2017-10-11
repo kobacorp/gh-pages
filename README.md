@@ -1,7 +1,10 @@
 GitHub pages for KobaCorp web site
 ==================================
 
+## Build manually
 
+1. `npm install`
+2. ...
 
 ## Special thanks
 
